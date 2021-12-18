@@ -1,0 +1,10 @@
+name: Craftok-Buildtionnary
+author: Sithey
+version: 1.0
+main: eu.craftok.buildtionnary.BMain
+depend:
+  - Craftok-Core
+  - Craftok-CoinsBooster
+commands:
+  start:
+  stats:
